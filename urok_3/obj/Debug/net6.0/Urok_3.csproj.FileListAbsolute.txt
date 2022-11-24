@@ -1,0 +1,15 @@
+C:\Users\ustinovdv\Seminar\Urok_3\bin\Debug\net6.0\Urok_3.exe
+C:\Users\ustinovdv\Seminar\Urok_3\bin\Debug\net6.0\Urok_3.deps.json
+C:\Users\ustinovdv\Seminar\Urok_3\bin\Debug\net6.0\Urok_3.runtimeconfig.json
+C:\Users\ustinovdv\Seminar\Urok_3\bin\Debug\net6.0\Urok_3.dll
+C:\Users\ustinovdv\Seminar\Urok_3\bin\Debug\net6.0\Urok_3.pdb
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\Urok_3.csproj.AssemblyReference.cache
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\Urok_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\Urok_3.AssemblyInfoInputs.cache
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\Urok_3.AssemblyInfo.cs
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\Urok_3.csproj.CoreCompileInputs.cache
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\Urok_3.dll
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\refint\Urok_3.dll
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\Urok_3.pdb
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\Urok_3.genruntimeconfig.cache
+C:\Users\ustinovdv\Seminar\Urok_3\obj\Debug\net6.0\ref\Urok_3.dll
